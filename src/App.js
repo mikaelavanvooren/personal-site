@@ -18,11 +18,11 @@ function App() {
   		<Container fluid id={"imgContainer"}>
   			<Row >
   				<Col>
-						<Image src="PersonalPhoto.jpeg" id={"personalPhoto"} fluid/>
+						<Image src="/PersonalPhoto.jpeg" id={"personalPhoto"} fluid/>
 					</Col>
 					<Col>
 						<Card square id={"textBox"}>
-							<div id={"aboutText"}>Hi, my name is Mikaela Van Vooren. <br/> <br/>
+							<div id={"aboutText"}><h2>Hi, my name is Mikaela Van Vooren.</h2> <br/> <br/>
 								I believe software engineers create specialized tools to solve problems. I consider myself primarily a problem solver who uses software engineering as one of the many tools in my arsenal to get the job done. <br/><br/> 
 							</div>
 						</Card>

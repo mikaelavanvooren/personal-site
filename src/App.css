@@ -24,7 +24,7 @@
 }
 
 .heading {
-  font-family: Oxygen, Gill Sans;
+  font-family: Oxygen, Ariel, Sans Serif;
 }
 
 .App-link {
@@ -60,6 +60,7 @@
   margin-top: 20px;
   height: 92%;
   margin-bottom: 20px;
+  text-align: justify;
 }
 
 #aboutText {
@@ -74,8 +75,8 @@
 #infoContainer {
   background-color: #2B5A88;
   height: 800px;
-  margin-right: 0px;
   color: white;
+  padding-left: 50px;
 }
 
 #aboutMe {
@@ -83,22 +84,26 @@
   font-weight: 800;
   font-size: 150px;
   text-align: left;
+  margin-right: 10px;
 }
 
 .aboutText {
   margin-top: 10px;
   text-align: left;
   font-size: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #projectsContainer {
   height: 800px;
+  padding-right: 60px;
 }
 
 #projects {
   font-family: Bookman;
   font-weight: 800;
-  font-size: 125px;
+  font-size: 150px;
   text-align: right;
 }
 
