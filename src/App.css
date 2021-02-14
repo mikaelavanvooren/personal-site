@@ -14,18 +14,35 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+}
+
+.heading {
+  font-family: Oxygen, Gill Sans;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.main-name {
+  font-size: 45px;
+  color: #6593F5;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  margin-block-end: 0em;
+}
+
+.major {
+  font-size: 20px;
+  color: #8c8c8c;
+  margin-block-start: 0em;
+  margin-block-end: 2em;
 }
 
 @keyframes App-logo-spin {
