@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: Oxygen;
 }
 
 .App-logo {
@@ -47,7 +48,7 @@
 
 #imgContainer {
   margin-left: 0;
-  height: 800px;
+  height: 700px;
   background-color: #FFFAF1;
 }
 
@@ -63,6 +64,7 @@
 
 #aboutText {
   font-family: Oxygen;
+  font-size: 20px;
   margin-right: 30px;
   margin-left: 30px;
   margin-top: 150px;
@@ -72,6 +74,42 @@
 #infoContainer {
   background-color: #2B5A88;
   height: 800px;
+  margin-right: 0px;
+  color: white;
+}
+
+#aboutMe {
+  font-family: Geneva;
+  font-weight: 800;
+  font-size: 150px;
+  text-align: left;
+}
+
+.aboutText {
+  margin-top: 10px;
+  text-align: left;
+  font-size: 25px;
+}
+
+#projectsContainer {
+  height: 800px;
+}
+
+#projects {
+  font-family: Bookman;
+  font-weight: 800;
+  font-size: 125px;
+  text-align: right;
+}
+
+#footer {
+  font-color: white;
+  background-color: #FFFAF1;
+  margin-top: 20px;
+}
+
+li {
+  text-align: left;
 }
 
 @keyframes App-logo-spin {
