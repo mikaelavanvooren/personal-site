@@ -24,7 +24,7 @@
 }
 
 .heading {
-  font-family: Oxygen, Ariel, Sans Serif;
+  font-family: Oxygen, Arial, Sans-Serif;
 }
 
 .App-link {
@@ -56,16 +56,9 @@
   border: none;
 }
 
-#textBox {
-  margin-top: 20px;
-  height: 92%;
-  margin-bottom: 20px;
-  text-align: justify;
-}
-
 #aboutText {
   font-family: Oxygen;
-  font-size: 20px;
+  font-size: 25px;
   margin-right: 30px;
   margin-left: 30px;
   margin-top: 150px;

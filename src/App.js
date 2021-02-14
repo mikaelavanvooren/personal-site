@@ -21,11 +21,9 @@ function App() {
 						<Image src="/PersonalPhoto.jpeg" id={"personalPhoto"} fluid/>
 					</Col>
 					<Col>
-						<Card square id={"textBox"}>
-							<div id={"aboutText"}><h2>Hi, my name is Mikaela Van Vooren.</h2> <br/> <br/>
+							<div id={"aboutText"}><h2>Hi, my name is Mikaela Van Vooren.</h2> <br/>
 								I believe software engineers create specialized tools to solve problems. I consider myself primarily a problem solver who uses software engineering as one of the many tools in my arsenal to get the job done. <br/><br/> 
 							</div>
-						</Card>
 					</Col>
 				</Row>
 			</Container>
