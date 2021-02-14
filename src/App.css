@@ -31,10 +31,10 @@
 }
 
 .main-name {
-  font-size: 45px;
+  font-size: 65px;
   color: #6593F5;
-  font-weight: 700;
-  letter-spacing: 0.15em;
+  font-weight: 45;
+  font-width: 350;
   margin-block-end: 0em;
 }
 
@@ -43,6 +43,16 @@
   color: #8c8c8c;
   margin-block-start: 0em;
   margin-block-end: 2em;
+}
+
+#imgContainer {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 15px;
+}
+
+#personalPhoto {
+  border: none;
 }
 
 @keyframes App-logo-spin {
