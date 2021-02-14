@@ -21,7 +21,7 @@ function App() {
 						<Image src="/PersonalPhoto.jpeg" id={"personalPhoto"} fluid/>
 					</Col>
 					<Col>
-							<div id={"aboutText"}><h2>Hi, my name is Mikaela Van Vooren.</h2> <br/>
+							<div id={"aboutText"}><h2><b>Hi, my name is Mikaela Van Vooren.</b></h2> <br/>
 								I believe software engineers create specialized tools to solve problems. I consider myself primarily a problem solver who uses software engineering as one of the many tools in my arsenal to get the job done. <br/><br/> 
 							</div>
 					</Col>
@@ -30,7 +30,7 @@ function App() {
 			<Container fluid id={"infoContainer"}>
 			  <div id={"aboutMe"}>problems</div>
 			  	<Container className="aboutText">
-					  <div>Some of the problems I'm most passionate about working on are supporting those with <b>mental heath struggles</b>, finding new ways to further <b>environmental sustainability</b> and developing new techniques to get kids excited about <b>STEAM subjects in school</b>
+					  <div><br/><br/><br/>Some of the problems I'm most passionate about working on are supporting those with <b>mental heath struggles</b>, finding new ways to further <b>environmental sustainability</b> and developing new techniques to get kids excited about <b>STEAM subjects in school</b>
 			  		</div>
 			  	</Container>
 				</Container>
@@ -43,7 +43,7 @@ function App() {
 			  </Container>
 
 				<Container fluid id={"footer"}>
-					<div>Feel free to reach out!<br/>
+					<div><br/>Feel free to reach out!<br/>
 					</div>
 					<IconButton aria-label="linkedin" href="http://linkedin.com/in/mikaelavanvooren/">
 						<LinkedInIcon />

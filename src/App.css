@@ -49,7 +49,7 @@
 #imgContainer {
   margin-left: 0;
   height: 700px;
-  background-color: #FFFAF1;
+  color: #6c757d;
 }
 
 #personalPhoto {
@@ -69,7 +69,7 @@
   background-color: #2B5A88;
   height: 800px;
   color: white;
-  padding-left: 50px;
+  padding-left: 55px;
 }
 
 #aboutMe {
@@ -84,13 +84,15 @@
   margin-top: 10px;
   text-align: left;
   font-size: 25px;
-  margin-left: 10px;
+  padding-left: 40px;
   margin-right: 10px;
 }
 
 #projectsContainer {
   height: 800px;
   padding-right: 60px;
+  background-color: #3E3E3E;
+  color: #E5E5E5;
 }
 
 #projects {
@@ -102,7 +104,6 @@
 
 #footer {
   font-color: white;
-  background-color: #FFFAF1;
   margin-top: 20px;
 }
 
