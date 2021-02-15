@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  font-family: Oxygen;
+  font-family: Oxygen, Arial, Sans-Serif;
   font-size: 5vh;
 }
 
@@ -55,9 +55,9 @@
 
 #infoContainer {
   background-color: #2B5A88;
-  height: 165vh;
   color: white;
   padding-left: 55px;
+  padding-bottom: 30vh;
 }
 
 #problems {
@@ -75,11 +75,11 @@
 }
 
 #projectsContainer {
-  height: 185vh;
   padding-right: 60px;
   background-color: #3E3E3E;
   color: #E5E5E5;
-  padding-top: 15vh;
+  padding-top: 20vh;
+  padding-bottom: 40vh;
 }
 
 #projects {
