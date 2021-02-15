@@ -67,7 +67,7 @@
 
 #infoContainer {
   background-color: #2B5A88;
-  height: 800px;
+  height: 900px;
   color: white;
   padding-left: 55px;
 }
@@ -78,6 +78,7 @@
   font-size: 150px;
   text-align: left;
   margin-right: 10px;
+  padding-top: 150px;
 }
 
 .aboutText {
@@ -93,6 +94,7 @@
   padding-right: 60px;
   background-color: #3E3E3E;
   color: #E5E5E5;
+  padding-top: 150px;
 }
 
 #projects {
@@ -105,6 +107,8 @@
 #footer {
   font-color: white;
   margin-top: 20px;
+  margin-bottom: 30px;
+  font-size: 20px;
 }
 
 li {
