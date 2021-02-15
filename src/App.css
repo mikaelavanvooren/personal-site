@@ -39,6 +39,7 @@
 #imgContainer {
   margin-left: 0;
   color: #6c757d;
+  padding-bottom: 10vh;
 }
 
 #personalPhoto {
@@ -92,5 +93,5 @@
   font-color: white;
   margin-top: 20px;
   margin-bottom: 30px;
-  font-size: 3vw;
+  font-size: 2em;
 }
