@@ -49,7 +49,7 @@
 #aboutBio {
   margin-right: 5vw;
   margin-left: 5vw;
-  margin-top: 3.5em;
+  margin-top: 25vh;
   text-align: justify;
 }
 
@@ -60,7 +60,7 @@
 }
 
 #problems {
-  font-family: Geneva;
+  font-family: 'Brygada 1918', serif;
   font-weight: 800;
   font-size: 10vw;
   text-align: left;
@@ -82,7 +82,7 @@
 }
 
 #projects {
-  font-family: Bookman;
+  font-family: 'Libre Franklin', sans-serif;
   font-weight: 800;
   font-size: 10vw;
   text-align: right;
@@ -93,5 +93,5 @@
   font-color: white;
   margin-top: 20px;
   margin-bottom: 30px;
-  font-size: 2em;
+  font-size: 1.5em;
 }
